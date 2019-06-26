@@ -5,6 +5,9 @@
   "repository": "https://github.com/DavidStinghen/Gostack-Bootcamp-Node.js-Challenge-01.git",
   "author": "DavidNatanael <davidstinghen@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
