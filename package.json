@@ -1,0 +1,14 @@
+{
+  "name": "Gostack-Bootcamp-Node.js-Challenge-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DavidStinghen/Gostack-Bootcamp-Node.js-Challenge-01.git",
+  "author": "DavidNatanael <davidstinghen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
